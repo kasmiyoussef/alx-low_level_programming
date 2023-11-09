@@ -1,0 +1,162 @@
+[33mcommit 73835b8cee4408268cc17d1e9626b26b4712f5cd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/origin/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;32myour-new-branch[m[33m, [m[1;32mupdate_script[m[33m, [m[1;32morigin/master[m[33m)[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Thu Nov 9 07:32:45 2023 -0800
+
+    static libraries
+
+[33mcommit 11c8a75dd0f96ec7243cabbac9c1b8919f7870a4[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Thu Nov 9 07:02:24 2023 -0800
+
+    static librarais
+
+[33mcommit 72a46bfc7129cb30ac0be84c79552d4c6636afa5[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Thu Nov 9 04:06:50 2023 -0800
+
+    variadic function
+
+[33mcommit 19fc6f54a4d49e5260e2495da1238335d4babdd6[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Thu Nov 9 03:58:21 2023 -0800
+
+    variadic function
+
+[33mcommit b741d1e5c1e7200aa5a1d92346248cb913e79917[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Thu Nov 9 03:55:18 2023 -0800
+
+    variadic function
+
+[33mcommit ca24eba9d72a43525c255ad0f8604e759d5a50c3[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Wed Nov 8 14:33:39 2023 -0800
+
+    functionpointer
+
+[33mcommit 8f76bda67dc621e8e13b6453e6b87e731074a7f0[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Mon Nov 6 14:07:03 2023 -0800
+
+    0x0E. C - Structures, typedef
+
+[33mcommit 02c180e4ae82a4b4fcb5b8e13633ffe3ebe99c6f[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Mon Nov 6 11:22:35 2023 -0800
+
+    preprocessor
+
+[33mcommit ddcfcdcc64a234896f3db5afb6c132e0eba14687[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Mon Nov 6 10:41:11 2023 -0800
+
+    malloc free
+
+[33mcommit bf3a83b1a2b09853536ebadeedb562157c750719[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Mon Nov 6 10:13:02 2023 -0800
+
+    malloc free
+
+[33mcommit ac68be561e4a86728e730cd807666b09ca50ced1[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Sat Nov 4 04:31:24 2023 -0700
+
+    argc,argv
+
+[33mcommit 144ceff97685ce4cc77f08c594170c170400aa88[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Fri Nov 3 16:19:11 2023 -0700
+
+    malloc-free
+
+[33mcommit 26fc838ad58acd7c6e398072aa1e0160ba23abe8[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Wed Oct 25 11:12:03 2023 -0700
+
+    0x01. C - Variables, if, else, while
+
+[33mcommit 4acbbaa3d61a1bbb9e5d79155fdaf1506f7e5984[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Wed Oct 25 09:03:59 2023 -0700
+
+    0x08. C - Recursion
+
+[33mcommit 34408e012199b0a0ba59f609a57fb0857109d295[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Mon Oct 23 11:10:17 2023 -0700
+
+    0x07. C - Even more pointers, arrays and strings
+
+[33mcommit 9274b7ceacf7ba734b0a723b53515a716c4b484f[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Sat Oct 21 17:44:43 2023 -0700
+
+    C - More pointers, arrays and strings
+
+[33mcommit f56ab31352e4a96340115a2652713830ec3c48d3[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Sat Oct 21 17:39:24 2023 -0700
+
+    C - More pointers, arrays and strings
+    C
+
+[33mcommit 22369312576535332b7f41cc5fc550dc6ad45f68[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Thu Oct 19 17:14:50 2023 -0700
+
+    pointers_arrays_strings
+
+[33mcommit ddbc71782dbd43fbb789de7b4d0375c379873c1b[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Thu Oct 19 16:59:36 2023 -0700
+
+    pointers_arrays_strings
+
+[33mcommit 369949e99cfa9ca34104ac64ea24e5c5dc164907[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Sat Oct 14 12:21:15 2023 -0700
+
+    0x04. C - More functions, more nested loops
+
+[33mcommit 704562e63d56800a8c39cfe0cfad89c17c611506[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Wed Oct 11 11:12:27 2023 -0700
+
+    debbuging
+
+[33mcommit fb0fd3acb643ae657575ca4910485db772a5b200[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Wed Oct 11 11:08:01 2023 -0700
+
+    debbuging
+
+[33mcommit 63bfade9c51627f01b5560e25bf4e51a8ec49b3e[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Wed Oct 11 10:45:55 2023 -0700
+
+    debbuging
+
+[33mcommit 1581f6ffa42320cd63a4fe06c80eb819d856b558[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Wed Oct 11 10:33:12 2023 -0700
+
+    debbuging
+
+[33mcommit f42466b0775c30b1077b3bb648e7241b0835b03f[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Tue Oct 10 17:14:05 2023 -0700
+
+    C - Functions, nested loops
+
+[33mcommit 2e815edb278e338ee3879a4b351d684a2d97694d[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Mon Oct 9 13:57:29 2023 -0700
+
+    Hello, World
+
+[33mcommit c8dd17eebefa2ab06baa45279f978b5302c33269[m
+Author: kasmiyoussef <youssefkas416@gmail.com>
+Date:   Mon Oct 9 13:25:19 2023 -0700
+
+    My first commit
